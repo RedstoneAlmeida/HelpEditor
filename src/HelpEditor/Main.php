@@ -1,6 +1,6 @@
 <?php
 
-  namespace HelpModifier;
+  namespace HelpEditor;
 
   use pocketmine\plugin\PluginBase;
   use pocketmine\event\Listener;
